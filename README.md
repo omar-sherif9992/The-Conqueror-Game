@@ -1,6 +1,33 @@
-# The-Conquror-Game
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Omar Sherif Ali </h1>
+<h3 align="center">Computer Science Engineer | FullStack Web & API Developer </h3>
 
-The Conquror Game is a single player turn-based empire building game.
+<br>
+
+
+
+<a href="https://osa-warehouse-api.herokuapp.com/register"><h1 align="center">Welcome to Conquror</h1></a>
+
+
+<div align="center">
+  <a href="https://osa-warehouse-api.herokuapp.com/">
+    <img src="./svg/fight-icon.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">The Conquror</h3>
+
+  <p align="center">
+    a single player turn-based empire building game!
+    <br />
+    <a href="https://drive.google.com/file/d/1GMyTRExup_pZxTLnTBAQiJzGCJIRGCrM/view"><strong>View the Video »</strong></a>
+    <br />
+    <br />
+
+    
+. <a href="mailto:osa.helpme@gmail.comsubject=UnExpected%20Error%20Occured&body=Sorry%20for%20the%20inconvenience%2C%20Please%20describe%20Your%20situation%20and%20emphasis%20the%20Endpoint%20!%0A">Report Bug</a>
+	  .
+<a href="mailto:osa.helpme@gmail.comsubject=I%20want%20to%20be%20a%20Contributor%20to%20Conquror&body=Dear%20Omar%20Sherif%2C%0A%0A%3D%3D%3E%20name%0A%3D%3D%3E%20email%0A%3D%3D%3E%20phone%20number%0A%3D%3D%3E%20github%20link">Be a Contributer</a>
+  </p>
+</div>
 
 # Game Description
 A player initially chooses one historical city to start his empire with. The goal is to conquer the whole world by taking control over every other city under a certain amount of turns. In order to achieve this goal, the player have the option of building various types of building in any city he has control over and also build armies in order to conquer other cities.
