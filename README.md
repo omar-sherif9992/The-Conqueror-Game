@@ -5,7 +5,7 @@
 
 
 
-<a href="https://osa-warehouse-api.herokuapp.com/register"><h1 align="center">Welcome to Conquror</h1></a>
+<a href="https://osa-warehouse-api.herokuapp.com/register"><h1 align="center">Welcome to Conqueror</h1></a>
 
 
 <div align="center">
@@ -13,7 +13,7 @@
     <img src="./svg/fight-icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">The Conquror</h3>
+  <h3 align="center">The Conqueror</h3>
 
   <p align="center">
     a single player turn-based empire building game!
@@ -25,7 +25,7 @@
     
 . <a href="mailto:osa.helpme@gmail.comsubject=UnExpected%20Error%20Occured&body=Sorry%20for%20the%20inconvenience%2C%20Please%20describe%20Your%20situation%20and%20emphasis%20the%20Endpoint%20!%0A">Report Bug</a>
 	  .
-<a href="mailto:osa.helpme@gmail.comsubject=I%20want%20to%20be%20a%20Contributor%20to%20Conquror&body=Dear%20Omar%20Sherif%2C%0A%0A%3D%3D%3E%20name%0A%3D%3D%3E%20email%0A%3D%3D%3E%20phone%20number%0A%3D%3D%3E%20github%20link">Be a Contributer</a>
+<a href="mailto:osa.helpme@gmail.comsubject=I%20want%20to%20be%20a%20Contributor%20to%20Conqueror&body=Dear%20Omar%20Sherif%2C%0A%0A%3D%3D%3E%20name%0A%3D%3D%3E%20email%0A%3D%3D%3E%20phone%20number%0A%3D%3D%3E%20github%20link">Be a Contributer</a>
   </p>
 </div>
 
